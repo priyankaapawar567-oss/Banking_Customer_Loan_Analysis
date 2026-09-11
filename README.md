@@ -1,94 +1,125 @@
-#<p align="center"> <img src="bank%20image2.jpg" width="200" alt="Bank Icon"</p>Banking Customer & Loan Analysis
+# 🏦 Banking Customer & Loan Analysis
+
+<p align="center">
+  <b>📊 Data Analysis | 💰 Banking Analytics | 📈 Power BI Dashboard</b>
+</p>
+
+---
 
 ## 📌 Project Overview
 
-This project focuses on analyzing banking customer, loan, transaction, and credit card data to identify meaningful business insights and trends.
+This project focuses on analyzing **banking customer, loan, transaction, and credit card data** to identify meaningful business insights and trends.
 
-An interactive Power BI dashboard was created to provide a clear view of customer demographics, loan performance, transaction activity, credit limits, and loan approval/rejection status.
+An interactive **Power BI dashboard** was developed to provide a clear view of customer demographics, loan performance, transaction activity, credit limits, and loan approval/rejection trends.
+
+---
 
 ## 🎯 Project Objective
 
-The main objective of this project is to transform raw banking data into meaningful insights that can support data-driven business decisions.
+The main objective of this project is to transform raw banking data into **meaningful and actionable insights** that can support data-driven business decisions.
 
-The analysis focuses on:
+### 🔎 Analysis Areas
 
-- Customer demographics
-- Account and transaction analysis
-- Loan performance
-- Loan approval and rejection trends
-- Credit card analysis
-- Customer distribution by city
-- Customer feedback and resolution status
+- 👥 Customer Demographics
+- 🏦 Account & Transaction Analysis
+- 💰 Loan Performance
+- ✅ Loan Approval Analysis
+- ❌ Loan Rejection Analysis
+- 💳 Credit Card Analysis
+- 🌍 Customer Distribution by City
+- 💬 Customer Feedback & Resolution Status
+
+---
 
 ## 🛠️ Tools & Technologies
 
-- **Excel** – Data cleaning and preparation
-- **SQL** – Data querying and analysis
-- **Python** – Data processing and analysis
-- **Power BI** – Data visualization and dashboard development
-- **DAX** – KPI calculations and measures
+| Tool | Purpose |
+|---|---|
+| 📗 **Excel** | Data Cleaning & Preparation |
+| 🗄️ **SQL** | Data Querying & Analysis |
+| 🐍 **Python** | Data Processing & Analysis |
+| 📊 **Power BI** | Data Visualization & Dashboard |
+| 📐 **DAX** | KPI Calculations & Measures |
+<img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/6796abdb-f6b5-42a8-ab85-3e7fd803ed89" />
 
-## 📊 Dataset
+---
 
-The dataset contains information related to:
+## 📂 Dataset
 
-- Customer details
-- Account information
-- Transaction details
-- Loan information
-- Credit card details
-- Customer feedback
+The dataset contains **5,000 customer records** and includes information related to:
 
-The dataset contains **5,000 customer records**.
+- 👤 Customer Details
+- 🏦 Account Information
+- 💸 Transaction Details
+- 💰 Loan Information
+- 💳 Credit Card Details
+- 💬 Customer Feedback
 
-## 📈 Key KPIs
+---
 
-| KPI | Value |
+## 📈 Key Performance Indicators
+
+| 📊 KPI | 🔢 Value |
 |---|---:|
-| Total Customers | 5,000 |
-| Total Loan Amount | 127.51M |
-| Total Transaction Amount | 12.54M |
-| Approved Loans | 1,710 |
-| Rejected Loans | 1,630 |
-| Total Credit Limit | 27.75M |
+| 👥 Total Customers | **5,000** |
+| 💰 Total Loan Amount | **127.51M** |
+| 💸 Total Transaction Amount | **12.54M** |
+| ✅ Approved Loans | **1,710** |
+| ❌ Rejected Loans | **1,630** |
+| 💳 Total Credit Limit | **27.75M** |
 
-## 📊 Dashboard Analysis
+---
 
-The Power BI dashboard includes:
+## 📊 Power BI Dashboard
 
-- **Credit Limit by Card Type**
-- **Transaction Amount by Transaction Date**
-- **Customer Distribution by Gender**
-- **Loan Approval/Rejection Analysis**
-- **Total Transaction Amount by Date**
-- **Loan Amount by Loan Type**
-- **Total Customers by City**
-<img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/701145b4-e6b9-4534-973c-5440f7b594a5" />
+The interactive dashboard provides insights into:
 
+- 💳 Credit Limit by Card Type
+- 📅 Transaction Amount by Transaction Date
+- 👥 Customer Distribution by Gender
+- ✅❌ Loan Approval & Rejection Analysis
+- 💸 Total Transaction Amount by Date
+- 💰 Loan Amount by Loan Type
+- 🌍 Total Customers by City
+
+### 🖼️ Dashboard Preview
+
+<img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard" src="https://github.com/user-attachments/assets/701145b4-e6b9-4534-973c-5440f7b594a5" />
+
+---
 
 ## 🔍 Key Insights
 
-- Mortgage loans represent the highest loan amount among the analyzed loan types.
-- Credit limits were analyzed across AMEX, Visa, and MasterCard.
-- Loan performance was analyzed using Approved, Rejected, and Closed statuses.
-- Transaction trends were analyzed over different transaction dates.
-- Customer distribution was analyzed by gender and city.
-- The dashboard provides an overall view of customer, loan, transaction, and credit card performance.
+- 🏠 **Mortgage loans** represent the highest loan amount among the analyzed loan types.
+- 💳 Credit limits were analyzed across **AMEX, Visa, and MasterCard**.
+- 📊 Loan performance was evaluated using **Approved, Rejected, and Closed** statuses.
+- 📅 Transaction trends were analyzed across different transaction dates.
+- 🌍 Customer distribution was analyzed by **city and gender**.
+- 📈 The dashboard provides an overall view of **customer, loan, transaction, and credit card performance**.
+
+---
 
 ## 📁 Project Files
 
-- `Banking_Customer_Loan_Cleaned.xlsx` – Cleaned dataset
-- `Banking customer and loan Dashboard.pbix` – Power BI dashboard
-- `README.md` – Project documentation
+| File | Description |
+|---|---|
+| 📗 `Banking_Customer_Loan_Cleaned.xlsx` | Cleaned banking dataset |
+| 📊 `Banking customer and loan Dashboard.pbix` | Power BI interactive dashboard |
+| 📝 `README.md` | Project documentation |
 
-## 💡 Conclusion
+---
 
-This project demonstrates how Excel, SQL, Python, and Power BI can be used together to clean, analyze, and visualize banking data.
+## 🔄 Project Workflow
 
-The interactive dashboard converts raw banking data into meaningful business insights and provides an easy way to monitor customer, loan, transaction, and credit card metrics.
-
-## 👩‍💻 Author
-
-**Priyanka Pawar**
-
-Aspiring Data Analyst
+```text
+Raw Banking Data
+       ↓
+📗 Excel Data Cleaning
+       ↓
+🗄️ SQL Data Analysis
+       ↓
+🐍 Python Data Processing
+       ↓
+📊 Power BI Visualization
+       ↓
+💡 Business Insights
