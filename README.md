@@ -1,6 +1,12 @@
 # Banking Customer & Loan Analysis
 
-🎯 Project Objective
+## 📌 Project Overview
+
+This project focuses on analyzing banking customer, loan, transaction, and credit card data to identify meaningful business insights and trends.
+
+An interactive Power BI dashboard was created to provide a clear view of customer demographics, loan performance, transaction activity, credit limits, and loan approval/rejection status.
+
+## 🎯 Project Objective
 
 The main objective of this project is to transform raw banking data into meaningful insights that can support data-driven business decisions.
 
@@ -14,7 +20,7 @@ The analysis focuses on:
 - Customer distribution by city
 - Customer feedback and resolution status
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - **Excel** – Data cleaning and preparation
 - **SQL** – Data querying and analysis
@@ -22,7 +28,7 @@ The analysis focuses on:
 - **Power BI** – Data visualization and dashboard development
 - **DAX** – KPI calculations and measures
 
-📊 Dataset
+## 📊 Dataset
 
 The dataset contains information related to:
 
@@ -35,7 +41,7 @@ The dataset contains information related to:
 
 The dataset contains **5,000 customer records**.
 
-📈 Key KPIs
+## 📈 Key KPIs
 
 | KPI | Value |
 |---|---:|
@@ -46,7 +52,7 @@ The dataset contains **5,000 customer records**.
 | Rejected Loans | 1,630 |
 | Total Credit Limit | 27.75M |
 
- 📊 Dashboard Analysis
+## 📊 Dashboard Analysis
 
 The Power BI dashboard includes:
 
@@ -56,10 +62,11 @@ The Power BI dashboard includes:
 - **Loan Approval/Rejection Analysis**
 - **Total Transaction Amount by Date**
 - **Loan Amount by Loan Type**
-- **Total Customers by City** <img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/c602d161-2bec-4e3d-a160-2085dad78a8d" />
+- **Total Customers by City**
+<img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/701145b4-e6b9-4534-973c-5440f7b594a5" />
 
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 - Mortgage loans represent the highest loan amount among the analyzed loan types.
 - Credit limits were analyzed across AMEX, Visa, and MasterCard.
@@ -68,19 +75,19 @@ The Power BI dashboard includes:
 - Customer distribution was analyzed by gender and city.
 - The dashboard provides an overall view of customer, loan, transaction, and credit card performance.
 
- 📁 Project Files
+## 📁 Project Files
 
 - `Banking_Customer_Loan_Cleaned.xlsx` – Cleaned dataset
 - `Banking customer and loan Dashboard.pbix` – Power BI dashboard
 - `README.md` – Project documentation
 
-💡 Conclusion
+## 💡 Conclusion
 
 This project demonstrates how Excel, SQL, Python, and Power BI can be used together to clean, analyze, and visualize banking data.
 
 The interactive dashboard converts raw banking data into meaningful business insights and provides an easy way to monitor customer, loan, transaction, and credit card metrics.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 **Priyanka Pawar**
 
