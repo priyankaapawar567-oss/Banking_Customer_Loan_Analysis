@@ -1,11 +1,5 @@
 # Banking Customer & Loan Analysis
 
-📌 Project Overview
-
-This project focuses on analyzing banking customer, loan, transaction, and credit card data to identify meaningful business insights and trends.<img width="989" height="980" alt="bank image2" src="https://github.com/user-attachments/assets/f73ef867-87d7-421a-bf5b-b02f1d2ae725" />
-
-An interactive Power BI dashboard was created to provide a clear view of customer demographics, loan performance, transaction activity, credit limits, and loan approval/rejection status.
-
 🎯 Project Objective
 
 The main objective of this project is to transform raw banking data into meaningful insights that can support data-driven business decisions.
@@ -62,7 +56,8 @@ The Power BI dashboard includes:
 - **Loan Approval/Rejection Analysis**
 - **Total Transaction Amount by Date**
 - **Loan Amount by Loan Type**
-- **Total Customers by City**
+- **Total Customers by City** <img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/c602d161-2bec-4e3d-a160-2085dad78a8d" />
+
 
 🔍 Key Insights
 
