@@ -40,8 +40,6 @@ The main objective of this project is to transform raw banking data into **meani
 | 🐍 **Python** | Data Processing & Analysis |
 | 📊 **Power BI** | Data Visualization & Dashboard |
 | 📐 **DAX** | KPI Calculations & Measures |
-<img width="634" height="332" alt="Banking Customers and Loan Analysis Dashboard " src="https://github.com/user-attachments/assets/6796abdb-f6b5-42a8-ab85-3e7fd803ed89" />
-
 ---
 
 ## 📂 Dataset
@@ -108,18 +106,14 @@ The interactive dashboard provides insights into:
 | 📝 `README.md` | Project documentation |
 
 ---
+## 💡 Conclusion
 
-## 🔄 Project Workflow
+This project demonstrates how Excel, SQL, Python, and Power BI can be used together to clean, analyze, and visualize banking data.
 
-```text
-Raw Banking Data
-       ↓
-📗 Excel Data Cleaning
-       ↓
-🗄️ SQL Data Analysis
-       ↓
-🐍 Python Data Processing
-       ↓
-📊 Power BI Visualization
-       ↓
-💡 Business Insights
+The interactive dashboard converts raw banking data into meaningful business insights and provides an easy way to monitor customer, loan, transaction, and credit card metrics.
+
+## 👩‍💻 Author
+
+**Priyanka Pawar**
+
+Aspiring Data Analyst
