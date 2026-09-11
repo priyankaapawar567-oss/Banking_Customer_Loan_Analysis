@@ -1,4 +1,6 @@
-# Banking Customer & Loan Analysis
+#<p align="center">
+  <img src="bank%20image2.jpg" width="200" alt="Bank Icon">
+</p>Banking Customer & Loan Analysis
 
 ## 📌 Project Overview
 
